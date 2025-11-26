@@ -1,7 +1,7 @@
 <!-- ================= HEADER SECTION ================ -->
 
 <p align="center">
-  <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner_20251022_094535_0000.png?raw=true" alt="Emmanuel Majekodunmi" width="160" style="border-radius: 50%; border: 3px solid #0A66C2;">
+  <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/IMG_4216.jpg" alt="Emmanuel Majekodunmi" width="160" style="border-radius: 50%; border: 3px solid #0A66C2;">
 </p>
 
 <h1 align="center">Emmanuel Majekodunmi</h1>
@@ -15,16 +15,12 @@
 
 <!-- ================= ABOUT SECTION ================= -->
 
-## 👋 Hi, I'm Emmanuel
+## About me
+I'm Emmanuel and I am a data analyst with experience in transforming raw data into actionable insights. With expertise in data cleaning, manipulation and visualization using Excel, Power Bi and SQL. I enjoy solving complex problems and helping businesses make informed decisions that unlocks growth.
 
-I am a data analyst with experience turning raw data into actionable insights.  
-With strong skills in **data cleaning, transformation, modelling, visualization** and business reporting using:
+## What I do
 
-- **Power BI**
-- **Excel**
-- **SQL**
-
-I enjoy solving complex analytical problems and helping businesses make informed decisions that drive growth and performance.
+I collect, clean, process, and performing statistical analyses on datasets to discover trends & useful insights, suggest data driven recommendations, and support decision-making. This involves various skills such as descriptive statistics, exploratory data analysis (EDA), and inferential statistics, to interpret and understand the patterns and behaviors within data.
 
 ---
 
