@@ -1,7 +1,7 @@
 <!-- ================= HEADER SECTION ================ -->
 
 <p align="center">
-  <img src="[https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/IMG_4216.jpg]" alt="Emmanuel Majekodunmi" width="160" style="border-radius: 50%; border: 3px solid #0A66C2;">
+  <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/IMG_4216.jpg" alt="Emmanuel Majekodunmi" width="160" style="border-radius: 50%; border: 3px solid #0A66C2;">
 </p>
 
 <h1 align="center">Emmanuel Majekodunmi</h1>
