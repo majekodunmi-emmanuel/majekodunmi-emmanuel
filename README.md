@@ -1,7 +1,7 @@
 <!-- ================= HEADER SECTION ================ -->
 
 <p align="center">
-  <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/IMG_4216.jpg" alt="Emmanuel Majekodunmi" width="160" style="border-radius: 50%; border: 3px solid #0A66C2;">
+  <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner_20251022_094535_0000.png?raw=true" alt="Emmanuel Majekodunmi" width="160" style="border-radius: 50%; border: 3px solid #0A66C2;">
 </p>
 
 <h1 align="center">Emmanuel Majekodunmi</h1>
@@ -48,8 +48,8 @@ A commercial analytics dashboard analyzing sales performance across states/citie
 - Profitability Tracking (DAX)  
 - Dynamic Time Intelligence Measures  
 
-🔍 **Read More:** www.linkedin.com/in/emmanuel-majekodunmi 
-📁 **Download Power BI File:** [Click Here](ADD_PBIX_FILE_LINK)
+**Read More:** www.linkedin.com/in/emmanuel-majekodunmi 
+**Download Power BI File:** [Click Here](ADD_PBIX_FILE_LINK)
 
 ---
 
@@ -67,8 +67,8 @@ A business intelligence dashboard analyzing global sales performance across coun
 - Customer Behaviour Insights  
 - KPI & DAX Model Optimization  
 
-🔍 **Read More:** www.linkedin.com/in/emmanuel-majekodunmi  
-📁 **Download Power BI File:** [Click Here](ADD_PBIX_FILE_LINK)
+**Read More:** www.linkedin.com/in/emmanuel-majekodunmi  
+**Download Power BI File:** [Click Here](ADD_PBIX_FILE_LINK)
 
 ---
 
@@ -76,10 +76,10 @@ A business intelligence dashboard analyzing global sales performance across coun
 
 ## 📬 Contact Me
 
-📧 **Email:** emmanuelmajekodunmi2020@gmail.com  
-📱 **Phone:** +234 913 289 9320  
-🔗 **LinkedIn:** www.linkedin.com/in/emmanuel-majekodunmi 
-💻 **GitHub Portfolio:** Add your GitHub link  
+**Email:** emmanuelmajekodunmi2020@gmail.com  
+**Phone:** +234 913 289 9320  
+**LinkedIn:** www.linkedin.com/in/emmanuel-majekodunmi 
+**GitHub Portfolio:** Add your GitHub link  
 
 ---
 
