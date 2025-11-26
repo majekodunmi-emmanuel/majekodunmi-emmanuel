@@ -26,7 +26,7 @@ I collect, clean, process, and performing statistical analyses on datasets to di
 
 <!-- ================= PROJECTS SECTION ================ -->
 
-## ⭐ Featured Projects
+## Featured Projects
 
 ---
 
