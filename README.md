@@ -36,32 +36,33 @@ I collect, clean, process, and performing statistical analyses on datasets to di
   <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Sales%20Dashboard.png" width="800" alt="Sales Analytics Dashboard Screenshot">
 </p>
 
-A commercial analytics dashboard analyzing sales performance across states/cities, product categories, customer segments, and time.
+A commercial analytics project examining profit and sales performance across 6 countries and 53 states from 2011–2016. The analysis explores customer demographics, product categories, geographic trends, and year-over-year profit changes.
 
 **Key Highlights**
-- Revenue & YoY Growth Analysis  
-- Customer Segmentation  
-- Profitability Tracking (DAX)  
-- Dynamic Time Intelligence Measures  
+- Identified key customer demographics driving profit.
+- Compared performance across countries.
+- Analyzed product categories to reveal top performers.
+- Built DAX measures for Year-over-Year profit insights
+ 
 
 **Read More:** www.linkedin.com/in/emmanuel-majekodunmi 
 **Download Power BI File:** [Click Here](ADD_PBIX_FILE_LINK)
 
 ---
 
-### **2. Global Sales Dashboard – Revenue, Profit & Customer Insights**
+### **2. Profit & Sales Analysis of Bikes, Accessories & Clothing**
 
 <p align="center">
   <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/powerbi1.png" width="800" alt="Global Sales Dashboard Screenshot">
 </p>
 
-A business intelligence dashboard analyzing global sales performance across countries, product lines, and customer profiles.
+A commercial analytics project examining profit and sales performance across 6 countries and 53 states from 2011–2016. The analysis explores customer demographics, product categories, geographic trends, and year-over-year profit changes.
 
 **Key Highlights**
-- Revenue & Profit Analysis  
-- Regional Sales Mapping  
-- Customer Behaviour Insights  
-- KPI & DAX Model Optimization  
+- Identified key customer demographics driving profit.
+- Compared performance across countries.
+- Analyzed product categories to reveal top performers.
+- Built DAX measures for Year-over-Year profit insights
 
 **Read More:** www.linkedin.com/in/emmanuel-majekodunmi  
 **Download Power BI File:** [Click Here](ADD_PBIX_FILE_LINK)
