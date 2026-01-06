@@ -29,7 +29,7 @@ I collect, clean, process, and performing statistical analyses on datasets to di
 ### **1. Sales Performance & Growth Insights**
 
 <p align="center">
-  <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Sales%20Dashboard.png" width="800" alt="Sales Analytics Dashboard Screenshot">
+  <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Sales_Dashboard.png" width="800" alt="Sales Analytics Dashboard Screenshot">
 </p>
 
 This project analyzes three years of sales data (2016–2018) across products, product categories, states, and cities to evaluate overall sales performance, identify trends, and provide actionable insights for strategic decision-making. 
@@ -42,6 +42,7 @@ This project analyzes three years of sales data (2016–2018) across products, p
  
 
 **Read More:** www.linkedin.com/pulse/sales-performance-growth-insights-three-year-product-majekodunmi-7eyhf
+
 **Download Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Sales_Dashboard.pbix)
 
 ---
@@ -62,6 +63,7 @@ This project focuses on analyzing employee attrition within a large organization
 
 
 **Read More:** www.linkedin.com/pulse/hr-attrition-analysis-report-emmanuel-majekodunmi-2yibf
+
 **Download Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Attrition%20Analysis.pbix)
 
 
@@ -80,6 +82,7 @@ A commercial analytics project examining profit and sales performance across 6 c
 - Built DAX measures for Year-over-Year profit insights
 
 **Read More:** www.linkedin.com/pulse/profit-sales-analysis-bikes-bike-accessories-clothing-majekodunmi-kywjf/
+
 **Download Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Profit%20%26%20Sales%20Dashboard.pbix)
 
 ---
@@ -98,4 +101,3 @@ A commercial analytics project examining profit and sales performance across 6 c
 <p align="center">
   <i>Thanks for visiting! Feel free to reach out for collaborations or project discussions.</i>
 </p>
-
