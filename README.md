@@ -26,7 +26,7 @@ I collect, clean, process, and performing statistical analyses on datasets to di
 
 ---
 
-### **1. Sales Performance & Growth Insights **
+### **1. Sales Performance & Growth Insights**
 
 <p align="center">
   <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Sales%20Dashboard.png" width="800" alt="Sales Analytics Dashboard Screenshot">
@@ -41,12 +41,12 @@ This project analyzes three years of sales data (2016–2018) across products, p
 - Built a structured data model using a hybrid snowflake schema in Power BI and Excel.
  
 
-**Read More:** linkedin.com/pulse/sales-performance-growth-insights-three-year-product-majekodunmi-7eyhf
-**Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Sales_Dashboard.pbix)
+**Read More:** www.linkedin.com/pulse/sales-performance-growth-insights-three-year-product-majekodunmi-7eyhf
+**Download Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Sales_Dashboard.pbix)
 
 ---
 
-### **2. HR Attrition Analysis **
+### **2. HR Attrition Analysis**
 
 <p align="center">
   <img src="https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/HR%20Attrition%20Analysis%20Dashboard.png" width="800" alt="Global Sales Dashboard Screenshot">
@@ -61,8 +61,8 @@ This project focuses on analyzing employee attrition within a large organization
 - Built DAX measures for attrition count, attrition rate, active employees, and overtime-based attrition analysis.
 
 
-**Read More:** linkedin.com/pulse/hr-attrition-analysis-report-emmanuel-majekodunmi-2yibf
-**Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Attrition%20Analysis.pbix)
+**Read More:** www.linkedin.com/pulse/hr-attrition-analysis-report-emmanuel-majekodunmi-2yibf
+**Download Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Attrition%20Analysis.pbix)
 
 
 ### **3. Profit & Sales Analysis of Bikes, Accessories & Clothing**
@@ -79,8 +79,8 @@ A commercial analytics project examining profit and sales performance across 6 c
 - Analyzed product categories to reveal top performers.
 - Built DAX measures for Year-over-Year profit insights
 
-**Read More:** linkedin.com/pulse/profit-sales-analysis-bikes-bike-accessories-clothing-majekodunmi-kywjf/
-**Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Profit%20%26%20Sales%20Dashboard.pbix)
+**Read More:** www.linkedin.com/pulse/profit-sales-analysis-bikes-bike-accessories-clothing-majekodunmi-kywjf/
+**Download Power BI File:** [Click Here]( https://github.com/majekodunmi-emmanuel/majekodunmi-emmanuel/blob/main/Profit%20%26%20Sales%20Dashboard.pbix)
 
 ---
 
@@ -90,11 +90,12 @@ A commercial analytics project examining profit and sales performance across 6 c
 
 **Email:** emmanuelmajekodunmi2020@gmail.com  
 **Phone:** +234 913 289 9320  
-**LinkedIn:** www.linkedin.com/in/emmanuel-majekodunmi 
-**GitHub Portfolio:** github.com/majekodunmi-emmanuel
+**LinkedIn:** www.linkedin.com/in/emmanuel-majekodunmi
+**GitHub Portfolio:** www.github.com/majekodunmi-emmanuel
 
 ---
 
 <p align="center">
   <i>Thanks for visiting! Feel free to reach out for collaborations or project discussions.</i>
 </p>
+
