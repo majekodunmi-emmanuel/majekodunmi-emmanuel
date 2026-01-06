@@ -93,11 +93,10 @@ A commercial analytics project examining profit and sales performance across 6 c
 
 **Email:** emmanuelmajekodunmi2020@gmail.com  
 **Phone:** +234 913 289 9320  
-**LinkedIn:** www.linkedin.com/in/emmanuel-majekodunmi
+**LinkedIn:** www.linkedin.com/in/emmanuel-majekodunmi  
 **GitHub Portfolio:** www.github.com/majekodunmi-emmanuel
 
 ---
 
 <p align="center">
   <i>Thanks for visiting! Feel free to reach out for collaborations or project discussions.</i>
-</p>
